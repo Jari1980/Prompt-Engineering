@@ -17,4 +17,4 @@
 <h3>Scenario Medical Assistant Chatbot</h3>
 <i>Proceeding with Qwen2.5-72B-instruct</i>
 <p>System message: You are highly skilled doctor, offering general advice, defer complex cases to qualified medical professionals while adhering to ethical guidelines</p>
-<p>Asking "I want to loose weight and get in shape for summer", reciewed typical answer so I guess its ok.</p>
+<p>Asking "I want to loose weight and get in shape for summer, what should I do?", reciewed typical answer so I guess its ok.</p>
